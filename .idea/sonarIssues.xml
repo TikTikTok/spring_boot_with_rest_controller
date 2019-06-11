@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/test/src/com/itc/code_chef/ATM_Problem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/Git/testprograms/test_learnings/src/main/java/design_patterns/singleton/BreakSingletonByReflection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/Git/testprograms/test_learnings/src/main/java/design_patterns/singleton/BreakSingletonByReflectionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/Git/testprograms/test_learnings/src/main/java/design_patterns/singleton/EnumSingleton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/Git/testprograms/test_learnings/src/main/java/design_patterns/singleton/SingletonBreakByDeserialization.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/Git/testprograms/test_learnings/src/main/java/design_patterns/singleton/SingletonBreakByDeserializationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/spring/Controller/CustomerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/spring/Controller/HelloServlet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/spring/SpringBootConsoleApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/spring/dao/CustomerDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/spring/dao/CustomerRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/spring/model/Customer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/spring/repository/CustomerRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/spring/service/CustomerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/data.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/logback.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/index.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/classes/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/classes/data.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
