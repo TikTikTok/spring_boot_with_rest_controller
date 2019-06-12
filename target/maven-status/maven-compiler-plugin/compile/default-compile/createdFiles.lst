@@ -1,6 +1,5 @@
 com\spring\SpringBootConsoleApplication.class
 com\spring\Controller\CustomerController.class
-com\spring\service\CustomerService.class
 com\spring\model\Customer.class
-com\spring\Controller\HelloServlet.class
+com\spring\exception\ResourceNotFoundException.class
 com\spring\repository\CustomerRepository.class

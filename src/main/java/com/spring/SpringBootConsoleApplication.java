@@ -10,7 +10,6 @@ public class SpringBootConsoleApplication /*implements CommandLineRunner*/ {
 
         SpringApplication.run(SpringBootConsoleApplication.class, args);
 
-
     }
 }
 

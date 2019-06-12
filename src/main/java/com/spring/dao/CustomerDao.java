@@ -1,5 +1,6 @@
 package com.spring.dao;
 
+import com.spring.exception.ResourceNotFoundException;
 import com.spring.model.Customer;
 import com.spring.repository.CustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -25,7 +26,12 @@ public class CustomerDao {
 
     public Customer findOne(Long id)
     {
-        return customerRepository.findOne(id);
+        //Optional<ResourceNotFoundException> optional= new  Optional<ResourceNotFoundException>();
+        Customer customer = customerRepository.findOne(id);
+        if(null == customer) {
+                throw new ResourceNotFoundException(" Customer ", ":id", id);
+            }
+        return customer;
     }
 
     public void deleteCustomer(Customer customer)

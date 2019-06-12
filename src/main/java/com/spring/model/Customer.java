@@ -9,9 +9,9 @@ import javax.persistence.*;
 public class Customer {
 
     @Id
-    @Column(name = "id", updatable = false, nullable = false)
+    @Column(name = "id", updatable = true, nullable = false)
     @GeneratedValue(strategy = GenerationType.AUTO)
-    int id;
+    Long id;
 
     @Column(name = "name")
     @NotBlank
@@ -26,17 +26,17 @@ public class Customer {
 
     }
 
-    public Customer(int id, String name, String emailss) {
+    public Customer(Long id, String name, String emailss) {
         this.id = id;
         this.name = name;
         this.email = email;
     }
 
-    public int getId() {
+    public Long getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(Long id) {
         this.id = id;
     }
 
