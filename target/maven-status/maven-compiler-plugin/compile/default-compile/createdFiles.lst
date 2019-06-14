@@ -1,3 +1,4 @@
+com\spring\Controller\HttpEntityCustomerController.class
 com\spring\SpringBootConsoleApplication.class
 com\spring\Controller\CustomerController.class
 com\spring\model\Customer.class
